@@ -15,4 +15,4 @@ Desafio para o projeto do ramo do IEEE, o objetivo é ver se vocês conseguem fa
 * Não copie ou veja o código dos outros
 * É permitido falar com qualquer pessoa sobre o problema
 
-###Obs: Se você precisar de ajuda em como escrever algo em Python você pode mostrar um código parecido, mas não o do problema em si, isto é, mudem o máximo os nomes das variáveis e extraiam só o trecho que causa dúvidas
+### Obs: Se você precisar de ajuda em como escrever algo em Python você pode mostrar um código parecido, mas não o do problema em si, isto é, mudem o máximo os nomes das variáveis e extraiam só o trecho que causa dúvidas
